@@ -6,4 +6,6 @@ ASSIGNMENT – MULTIPLE CHOICES DETECTION
 
 # Run program
 To see the result, open up a terminal and issue the following command:
+'''
     python multiple_choices_detection.py --image input.png
+'''
