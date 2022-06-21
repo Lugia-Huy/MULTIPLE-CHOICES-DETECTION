@@ -7,5 +7,5 @@ ASSIGNMENT – MULTIPLE CHOICES DETECTION
 # Run program
 To see the result, open up a terminal and issue the following command:
 ```bash
-    python multiple_choices_detection.py --image input.png
+python multiple_choices_detection.py --image input.png
 ```
